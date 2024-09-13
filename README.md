@@ -14,4 +14,4 @@ website where you can follow football rumors, results, and planning.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fenny-mdg&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenny-mdg&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-eight-liard.vercel.app/api/top-langs/?username=fenny-mdg&layout=compact&theme=dark)
