@@ -10,7 +10,7 @@ website where you can follow football rumors, results, and planning.
 
 ## GitHub Stats
 
-![Fenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenny-mdg&show_icons=true&theme=dark)
+![Fenny's GitHub stats](https://github-readme-stats-eight-liard.vercel.app/api?username=fenny-mdg&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fenny-mdg&theme=dark)
 
